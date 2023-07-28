@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-![image](https://github.com/91CHS/91CHS/assets/68048878/4634e4ac-8683-4d30-8e6f-26f83b869732)
-
-
 <!--
 **91CHS/91CHS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
