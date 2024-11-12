@@ -24,7 +24,7 @@
 
 ### Project
 
-<a href="http://www.amigoo.store/" target="_blank"><img src="https://img.shields.io/badge/Amigo-632CA6?style=flat&logo=datadog&logoColor=FFFFFF"/>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Amigo-632CA6?style=flat&logo=datadog&logoColor=FFFFFF"/>
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/91CHS/91CHS">
